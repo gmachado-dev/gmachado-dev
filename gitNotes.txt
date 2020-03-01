@@ -16,9 +16,14 @@ git commit -m "mensagem" // salva as modificações feitas.
 
 git push origin master// envia as moficações ao repostório remoto
 
+git pull origin master // updade the data
 
 mkdir // create folders
 
-cd .. // one step forther
+cd .. // one step forthergit 
+
+git clone https://github.com/gmachado-dev/gmachado-dev.git // mudar o https
+
+ls // check the filescd
 
  
