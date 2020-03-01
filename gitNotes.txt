@@ -1,4 +1,4 @@
-GIT NOTES
+ puGIT NOTES
 
 git init // criar repositorio
 
@@ -6,7 +6,7 @@ git config user.name " " //
 define usuario
 
 git config user.email 
-"emailUsario" // def emai
+"gmachado.developer@gmail.com" // def emai
 
 git remote add origin http:...// link do gitHub
 
@@ -14,7 +14,7 @@ git add . // add all
 
 git commit -m "mensagem" // salva as modificações feitas.
 
-git push origin master // envia as moficações ao repostório remoto
+git // envia as moficações ao repostório remoto
 
 mkdir // create folders
 
