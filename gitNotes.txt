@@ -14,15 +14,16 @@ git add . // add all
 
 git commit -m "mensagem" // salva as modificações feitas.
 
+git clone https://github.com/gmachado-dev/gmachado-dev.git // mudar o https
+
 git push origin master// envia as moficações ao repostório remoto
 
-git pull origin master // updade the data
+git pull origin master // updade the data but the only one that is new.
+
 
 mkdir // create folders
 
 cd .. // one step forthergit 
-
-git clone https://github.com/gmachado-dev/gmachado-dev.git // mudar o https
 
 ls // check the filescd
 
