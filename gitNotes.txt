@@ -14,8 +14,11 @@ git add . // add all
 
 git commit -m "mensagem" // salva as modificações feitas.
 
-git // envia as moficações ao repostório remoto
+git push origin master// envia as moficações ao repostório remoto
+
 
 mkdir // create folders
+
+cd .. // one step forther
 
  
